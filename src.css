@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: jetbrains;
+  src: url("./JetBrainsMono-Regular.woff2");
+}
+
+html {
+  font-family: jetbrains;
+}
+
+.title {
+  text-shadow: rgba(135,117,255,1) 0px 0px 40px;
+}
