@@ -12,6 +12,7 @@
   "dependencies": {
     "@astrojs/mdx": "^0.19.7",
     "@astrojs/tailwind": "^4.0.0",
+    "@astrojs/vercel": "^3.7.4",
     "@types/canvas-confetti": "^1.6.0",
     "astro": "^2.9.6",
     "autoprefixer": "^10.4.14",
