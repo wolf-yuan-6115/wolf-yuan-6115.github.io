@@ -1,0 +1,14 @@
+@import url(https://use.typekit.net/nka2ltm.css);
+
+html {
+  font-family: poppins, sans-serif;
+}
+
+.title {
+  font-weight: 700;
+}
+
+.tabs {
+  font-style: normal;
+  transition: 100ms;
+}
